@@ -17,7 +17,7 @@ if "score" not in st.session_state:
 questions = [
     {"word": "上げる", "answer": "raise", "choices": ["rise", "raise"]},
     {"word": "潰す", "answer": "crush", "choices": ["crush","crash"]},
-    {"word": "箒", "answer": "broom", "choices": ["bloom", "broom"]},
+    {"word": "ほうき", "answer": "broom", "choices": ["bloom", "broom"]},
     {"word": "犯罪", "answer": "crime", "choices": ["clime","crime"]},
     {"word": "違反", "answer": "breach", "choices": ["breach", "bleach"]},
     {"word": "恐れ", "answer": "fear", "choices": ["fare", "fear"]},
@@ -74,4 +74,3 @@ else:
             st.session_state.q += 1
             st.session_state.answered = False
             st.session_state.result = ""
-    
