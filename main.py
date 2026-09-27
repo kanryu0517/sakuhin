@@ -36,7 +36,7 @@ questions = [
     {"word": "定量化する", "answer": "quantify", "choices": ["quantity", "quantify"]},
     {"word": "世辞", "answer": "compliment", "choices": ["complement","compliment"]},
     {"word": "詰め込む", "answer": "cram", "choices": ["clam", "clamp", "calm", "cram","cramp"]},
-    {"word": "主要な", "answer": "primary", "choices": ["prim",  "prime", "primary", "primacy" , "primal", "primordial", "primeval", "primitive" ]},
+    {"word": "優位性", "answer": "primacy", "choices": ["prim",  "prime", "primary", "primacy" , "primal", "primordial", "primeval", "primitive" ]},
 ]
 
 # クリア判定
