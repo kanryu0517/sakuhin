@@ -23,15 +23,20 @@ questions = [
     {"word": "恐れ", "answer": "fear", "choices": ["fare", "fear"]},
     {"word": "採用する", "answer": "adopt", "choices": ["adapt", "adopt"]},
     {"word": "考案する", "answer": "devise", "choices": ["device", "devise"]},
+    {"word": "外部の", "answer": "external", "choices": ["extreme", "exchange", "eternal", "external"]},
+    {"word": "あくび", "answer": "yawn", "choices": ["yarn", "yawn", "yearn"]},
     {"word": "議会", "answer": "council", "choices": ["council","counsel"]},
+    {"word": "法律の", "answer": "legal", "choices": ["legal", "regal"]},
     {"word": "適合する", "answer": "conform", "choices": ["conform", "confirm"]},
     {"word": "粗末な", "answer": "coarse", "choices": ["coerce", "coarse"]},
     {"word": "立てる", "answer": "erect", "choices": ["erect", "elect"]},
+    {"word": "採石場", "answer": "quarry", "choices": ["query", "quarry"]},
+    {"word": "勇敢な", "answer": "valiant", "choices": ["variant", "valiant"]},
     {"word": "企業の", "answer": "corporate", "choices": ["corporate","cooperate"]},
     {"word": "定量化する", "answer": "quantify", "choices": ["quantity", "quantify"]},
     {"word": "世辞", "answer": "compliment", "choices": ["complement","compliment"]},
-    {"word": "外部の", "answer": "external", "choices": ["extreme", "exchange", "eternal", "external"]},
     {"word": "詰め込む", "answer": "cram", "choices": ["clam", "clamp", "calm", "cram","cramp"]},
+    {"word": "主要な", "answer": "primary", "choices": ["prim"  "prime", "primary", "primacy" , "primal", "primordial", "primeval", "primitive" ]},
 ]
 
 # クリア判定
